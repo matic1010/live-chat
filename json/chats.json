@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "name": "Nils",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Ich habe so viel Hunger",
+        "userIsSender": false
+      },
+      {
+        "id": "2",
+        "text": "Wieso?",
+        "userIsSender": true
+      },
+      {
+        "id": "3",
+        "text": "Hast du nichts gegessen?",
+        "userIsSender": true
+      },
+      {
+        "id": "4",
+        "text": "Schon seit gestern Abend nicht mehr...😿",
+        "userIsSender": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "いよ",
+    "messages": [
+      {
+        "id": "1",
+        "text": "早くあいたいよ",
+        "userIsSender": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Timo",
+    "messages": [
+      {
+        "id": "1",
+        "text": "Na, wie geht's, Brudi?",
+        "userIsSender": false
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Bill Gates",
+    "messages": [
+      {
+        "id": "1",
+        "text": "I want to make a donation to you.",
+        "userIsSender": false
+      }
+    ]
+  }
+]
